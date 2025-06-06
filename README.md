@@ -2,8 +2,6 @@
 
 Este script de Python permite la transcripción de voz a texto utilizando la biblioteca Vosk para el reconocimiento de voz y SoundDevice para la manipulación de audio. Puede transcribir audio en tiempo real desde un micrófono o procesar un archivo de audio WAV preexistente. También ofrece la opción de guardar la grabación de audio (desde el micrófono) y la transcripción resultante.
 
-Este proyecto se encuentra en el repositorio [speech_to_text](https://github.com/slrosales/speech_to_text) en GitHub, perfil de `slrosales`.
-
 ## Características
 
 *   Transcripción en tiempo real desde el micrófono.
